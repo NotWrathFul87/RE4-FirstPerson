@@ -1,0 +1,9 @@
+/dist/
+/build/
+*.log
+/src/Stop.signal
+/src/*.ready
+/src/*.restored
+/src/*-status.json
+/src/*-states.json
+/src/*-result.json
