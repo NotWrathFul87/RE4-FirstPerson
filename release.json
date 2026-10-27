@@ -1,0 +1,70 @@
+{
+  "version": "0.4.0",
+  "edition": "English",
+  "variant": "Vanilla",
+  "releaseFolder": "RE4-FirstPerson-Vanilla",
+  "releaseArchive": "RE4-FirstPerson-Vanilla-v0.4.0-English.zip",
+  "originalArchiveSha256": "3820ec94d8f7ed465da2818ba9cabf4988793ed28e0603c9457a46e4a50b2983",
+  "files": [
+    {
+      "name": "Camera.cs",
+      "sha256": "db352dea934fc680cd98d45cb7e08a7c49e0b8750f9f0c5c4e3842af512b8c05"
+    },
+    {
+      "name": "CameraWorker.ps1",
+      "sha256": "966dbd02f7d2847c40fbdbbb644e83ce67457685b113404e668d91bcf94db971"
+    },
+    {
+      "name": "HideModels.ps1",
+      "sha256": "1502da8fc1e91e52926064f7855bf05ffababcf8cf6e95f438831940ab185a40"
+    },
+    {
+      "name": "Memory.ps1",
+      "sha256": "ac166a877b0e52409cbcbd77f7b982d86512b2109fbe600ab0165458b5b875b9"
+    },
+    {
+      "name": "ModelController.ps1",
+      "sha256": "609428e2e76ce4e88e4eb7c6f9ab228632d78e3625754cef9bd3754fb05de71e"
+    },
+    {
+      "name": "ModelWriter.ps1",
+      "sha256": "106f980202d97cf827ac24457162b025ad06b9f5bd9614e548cb94495c1faf72"
+    },
+    {
+      "name": "Profiles.ps1",
+      "sha256": "b52d38e3c21a74a38b01be978018ad2bd92e00bd377538c96d864e39a2e24167"
+    },
+    {
+      "name": "README.md",
+      "sha256": "106474c5d3a050037d8689c49535834dcba746c84d5772c958b6605ea4a646bb"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha256": "c409a1a7eefcbaf54019b08cff1ad273ad30c7ff36afc381bc7ef0f3db578f73"
+    },
+    {
+      "name": "Start.cmd",
+      "sha256": "422ef33a2bc949f0b098c38a2feab59054f212db86a6e9d68681eafae63a4024"
+    },
+    {
+      "name": "Start.ps1",
+      "sha256": "cb96592d0542112f0a33e3528fafa12439066041c0f1fe435c80e9eee1683c5a"
+    },
+    {
+      "name": "Stop.cmd",
+      "sha256": "22a716ac26d309eaec345fcacfb15ba4840ba96bc0a5fed58a0af2f2a8360a9f"
+    },
+    {
+      "name": "Stop.ps1",
+      "sha256": "dee707eb311200ca5d59481b175b1727c070fd148c14045fa15e486f8842c975"
+    },
+    {
+      "name": "VehicleCamera.cs",
+      "sha256": "254307beff892615d219c1bdf0ac30379fca618d42b07e29ae533676e64dc6f4"
+    },
+    {
+      "name": "VehicleCameraWorker.ps1",
+      "sha256": "04df8a4e8f74902f595823fa7ae18b1a3a2cdea76a33b8e77f6c8e6f6a061aa5"
+    }
+  ]
+}
